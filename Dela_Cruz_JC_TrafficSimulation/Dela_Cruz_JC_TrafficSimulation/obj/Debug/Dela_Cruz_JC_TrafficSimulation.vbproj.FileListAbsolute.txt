@@ -1,0 +1,12 @@
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\bin\Debug\Dela_Cruz_JC_TrafficSimulation.exe.config
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\bin\Debug\Dela_Cruz_JC_TrafficSimulation.exe
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\bin\Debug\Dela_Cruz_JC_TrafficSimulation.pdb
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\bin\Debug\Dela_Cruz_JC_TrafficSimulation.xml
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\obj\Debug\Dela_Cruz_JC_TrafficSimulation.vbproj.AssemblyReference.cache
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\obj\Debug\Dela_Cruz_JC_TrafficSimulation.Form1.resources
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\obj\Debug\Dela_Cruz_JC_TrafficSimulation.Resources.resources
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\obj\Debug\Dela_Cruz_JC_TrafficSimulation.vbproj.GenerateResource.cache
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\obj\Debug\Dela_Cruz_JC_TrafficSimulation.vbproj.CoreCompileInputs.cache
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\obj\Debug\Dela_Cruz_JC_TrafficSimulation.exe
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\obj\Debug\Dela_Cruz_JC_TrafficSimulation.xml
+C:\Users\npray\OneDrive\Documents\Visual Studio Projects\Dela_Cruz_JC_TrafficSimulation\Dela_Cruz_JC_TrafficSimulation\obj\Debug\Dela_Cruz_JC_TrafficSimulation.pdb
